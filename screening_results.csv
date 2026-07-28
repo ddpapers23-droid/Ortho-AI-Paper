@@ -3370,16 +3370,16 @@ Fractured/IMG0000025.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Croppe
 Fractured/IMG0000044.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Humerus (upper arm) fracture in a skeletally immature patient, not tibia.",High,done
 Fractured/IMG0000057.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Humerus fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
 Fractured/IMG0000058.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Elbow/distal humerus fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
-Fractured/IMG0000059.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000092.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000100.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000142.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000143.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000144.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000151.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000155.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000156.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000188.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0000059.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Humerus fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0000092.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Metal rod/pin and cross-screw visible transfixing proximal tibia/fibula; hardware present.,High,done
+Fractured/IMG0000100.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture in a pediatric patient, not tibia.",High,done
+Fractured/IMG0000142.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a pediatric patient, not tibia.",High,done
+Fractured/IMG0000143.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Elbow/forearm fracture in a pediatric patient, not tibia.",High,done
+Fractured/IMG0000144.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm fracture in a pediatric patient, not tibia.",High,done
+Fractured/IMG0000151.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible (distal tibia/fibula plus full foot), not tibial shaft.",Moderate,done
+Fractured/IMG0000155.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Elbow/forearm region in a pediatric patient with soft-tissue wrap/splint obscuring cortex, not tibia.",High,done
+Fractured/IMG0000156.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Humerus/elbow fracture, not tibia.",High,done
+Fractured/IMG0000188.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a pediatric patient, not tibia.",High,done
 Fractured/IMG0000189.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000190.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000206.jpg,Fractured,,,,,,,,pending
