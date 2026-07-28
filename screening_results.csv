@@ -3400,16 +3400,16 @@ Fractured/IMG0000467.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-ope
 Fractured/IMG0000468.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative tibia with intramedullary nail and proximal locking screw visible.,High,done
 Fractured/IMG0000470.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0000471.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Knee/patella fracture with cerclage wire fixation, not tibial shaft.",High,done
-Fractured/IMG0000472.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000479.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000480.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000599.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000600.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000671.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000692.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000702.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000750.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000751.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0000472.jpg,Fractured,EXCLUDE,Other,Lateral,Yes,Adequate,"Knee/patella fracture with cerclage wire fixation, not tibial shaft.",High,done
+Fractured/IMG0000479.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Distal tibia/ankle with foot prominent; rounded lucent lesion near ankle obscures clear cortex assessment, and location is distal rather than shaft.",Moderate,done
+Fractured/IMG0000480.jpg,Fractured,EXCLUDE,Other,Lateral,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",High,done
+Fractured/IMG0000599.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000600.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm with hand visible, not tibia.",Moderate,done
+Fractured/IMG0000671.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/elbow comparison view, not tibia.",High,done
+Fractured/IMG0000692.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0000702.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000750.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000751.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0000758.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000762.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000763.jpg,Fractured,,,,,,,,pending
