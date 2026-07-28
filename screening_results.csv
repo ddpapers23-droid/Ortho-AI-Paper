@@ -3390,16 +3390,16 @@ Fractured/IMG0000307.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forea
 Fractured/IMG0000319.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/hand, not tibia.",High,done
 Fractured/IMG0000351.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/hand, not tibia.",High,done
 Fractured/IMG0000352.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/hand, not tibia.",High,done
-Fractured/IMG0000443.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000453.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000454.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000455.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000456.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000466.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000467.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000468.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000470.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000471.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0000443.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative distal tibia with plate and screws visible.,High,done
+Fractured/IMG0000453.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Hip/proximal femur fracture fixation hardware, not tibia.",High,done
+Fractured/IMG0000454.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Hip/proximal femur fracture fixation hardware, not tibia.",High,done
+Fractured/IMG0000455.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Hip/proximal femur fracture fixation hardware, not tibia.",High,done
+Fractured/IMG0000456.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Hip/proximal femur fracture fixation hardware, not tibia.",High,done
+Fractured/IMG0000466.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative tibia with intramedullary nail and distal locking screws visible.,High,done
+Fractured/IMG0000467.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative tibia with intramedullary nail and distal locking screws visible.,High,done
+Fractured/IMG0000468.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative tibia with intramedullary nail and proximal locking screw visible.,High,done
+Fractured/IMG0000470.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000471.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Knee/patella fracture with cerclage wire fixation, not tibial shaft.",High,done
 Fractured/IMG0000472.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000479.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000480.jpg,Fractured,,,,,,,,pending
