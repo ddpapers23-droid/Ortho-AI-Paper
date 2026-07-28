@@ -3380,16 +3380,16 @@ Fractured/IMG0000151.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is
 Fractured/IMG0000155.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Elbow/forearm region in a pediatric patient with soft-tissue wrap/splint obscuring cortex, not tibia.",High,done
 Fractured/IMG0000156.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Humerus/elbow fracture, not tibia.",High,done
 Fractured/IMG0000188.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a pediatric patient, not tibia.",High,done
-Fractured/IMG0000189.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000190.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000206.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000207.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000261.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000284.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000307.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000319.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000351.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000352.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0000189.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture, not tibia.",High,done
+Fractured/IMG0000190.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
+Fractured/IMG0000206.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Hand fracture, not tibia.",High,done
+Fractured/IMG0000207.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Hand fracture, not tibia.",High,done
+Fractured/IMG0000261.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm comparison view, not tibia.",High,done
+Fractured/IMG0000284.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hand/wrist comparison view, not tibia.",High,done
+Fractured/IMG0000307.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0000319.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/hand, not tibia.",High,done
+Fractured/IMG0000351.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/hand, not tibia.",High,done
+Fractured/IMG0000352.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/hand, not tibia.",High,done
 Fractured/IMG0000443.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000453.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000454.jpg,Fractured,,,,,,,,pending
