@@ -3365,11 +3365,11 @@ Non_fractured/IMG0004372.jpg,Non_fractured,EXCLUDE,N/A,Unclear,No,N/A,Source-lab
 Non_fractured/IMG0004383.jpg,Non_fractured,EXCLUDE,N/A,Unclear,No,N/A,Source-labeled non-fractured; no fracture present (fails inclusion criterion 3).,High,done
 Non_fractured/IMG0004388.jpg,Non_fractured,EXCLUDE,N/A,Unclear,No,N/A,Source-labeled non-fractured; no fracture present (fails inclusion criterion 3).,High,done
 Non_fractured/IMG0004389.jpg,Non_fractured,EXCLUDE,N/A,Unclear,No,N/A,Source-labeled non-fractured; no fracture present (fails inclusion criterion 3).,High,done
-Fractured/IMG0000019.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000025.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000044.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000057.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000058.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0000019.jpg,Fractured,EXCLUDE,Other,Unclear,No,Inadequate,"Wrist/hand region, not tibia; image also shows motion/double-exposure artifact.",High,done
+Fractured/IMG0000025.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Cropped lateral view of knee/proximal leg; distal shaft and ankle not visible, cannot confirm shaft fracture or measure axis.",Moderate,done
+Fractured/IMG0000044.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Humerus (upper arm) fracture in a skeletally immature patient, not tibia.",High,done
+Fractured/IMG0000057.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Humerus fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0000058.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Elbow/distal humerus fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
 Fractured/IMG0000059.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000092.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000100.jpg,Fractured,,,,,,,,pending
@@ -3514,7 +3514,7 @@ Fractured/IMG0002148.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002180.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002181.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002208.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002225.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002225.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/wrist comparison view, not tibia.",High,done
 Fractured/IMG0002265.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002272.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002274.jpg,Fractured,,,,,,,,pending
@@ -3664,7 +3664,7 @@ Fractured/IMG0002439.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002440.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002441.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002442.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002443.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002443.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Fracture is distal, close to ankle joint/metaphysis; cannot confidently confirm mid-shaft (diaphyseal) vs distal (pilon) location, and proximal shaft not visible for axis measurement.",Moderate,done
 Fractured/IMG0002444.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002445.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002446.jpg,Fractured,,,,,,,,pending
@@ -3814,7 +3814,7 @@ Fractured/IMG0002591.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002592.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002593.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002594.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002595.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002595.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Bilateral post-operative tibial fixation hardware (plates/screws) clearly visible.,High,done
 Fractured/IMG0002596.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002597.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002598.jpg,Fractured,,,,,,,,pending
@@ -3964,7 +3964,7 @@ Fractured/IMG0003395.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0003396.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0003397.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0003398.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0003399.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0003399.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm (radius/ulna), not tibia.",High,done
 Fractured/IMG0003419.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0003420.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0003458.jpg,Fractured,,,,,,,,pending
@@ -4078,4 +4078,4 @@ Fractured/IMG0004369.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0004370.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0004374.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0004375.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0004376.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0004376.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm (radius/ulna), not tibia.",High,done
