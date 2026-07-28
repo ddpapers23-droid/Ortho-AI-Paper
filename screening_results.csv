@@ -3410,14 +3410,14 @@ Fractured/IMG0000692.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forea
 Fractured/IMG0000702.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0000750.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0000751.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
-Fractured/IMG0000758.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000762.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000763.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000776.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000777.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000801.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000804.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000805.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0000758.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
+Fractured/IMG0000762.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000763.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0000776.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative tibia with intramedullary nail and locking screw visible.,High,done
+Fractured/IMG0000777.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative tibia with intramedullary nail visible.,High,done
+Fractured/IMG0000801.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Not tibia (upper-extremity long bone with hand/foot digits, not lower leg with knee/ankle joints).",Moderate,done
+Fractured/IMG0000804.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000805.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture with hand visible, not tibia.",High,done
 Fractured/IMG0000822.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000844.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0000845.jpg,Fractured,,,,,,,,pending
