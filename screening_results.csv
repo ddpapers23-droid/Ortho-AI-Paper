@@ -3418,11 +3418,11 @@ Fractured/IMG0000777.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Pos
 Fractured/IMG0000801.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Not tibia (upper-extremity long bone with hand/foot digits, not lower leg with knee/ankle joints).",Moderate,done
 Fractured/IMG0000804.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0000805.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture with hand visible, not tibia.",High,done
-Fractured/IMG0000822.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000844.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000845.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000851.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0000852.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0000822.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Pelvis/hip with femur plate-and-screw fixation, not tibia.",High,done
+Fractured/IMG0000844.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000845.jpg,Fractured,EXCLUDE,Other,Lateral,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
+Fractured/IMG0000851.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0000852.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
 Fractured/IMG0001007.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001008.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001025.jpg,Fractured,,,,,,,,pending
