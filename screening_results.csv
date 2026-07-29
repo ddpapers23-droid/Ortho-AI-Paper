@@ -3439,14 +3439,14 @@ Fractured/IMG0001192.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Femur fracture 
 Fractured/IMG0001198.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0001199.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0001200.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
-Fractured/IMG0001236.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001350.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001351.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001360.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001361.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001362.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001363.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001364.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0001236.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0001350.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Foot is the main structure visible, not tibial shaft.",High,done
+Fractured/IMG0001351.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Foot is the main structure visible, not tibial shaft.",High,done
+Fractured/IMG0001360.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0001361.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0001362.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0001363.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0001364.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
 Fractured/IMG0001365.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001366.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001367.jpg,Fractured,,,,,,,,pending
