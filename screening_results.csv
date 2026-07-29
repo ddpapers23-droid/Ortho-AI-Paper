@@ -3503,14 +3503,14 @@ Fractured/IMG0002021.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is
 Fractured/IMG0002036.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative tibia with intramedullary nail and screws visible.,High,done
 Fractured/IMG0002037.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative distal tibia with plate and nail visible.,High,done
 Fractured/IMG0002085.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
-Fractured/IMG0002086.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002105.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002106.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002122.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002123.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002126.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002127.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002148.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002086.jpg,Fractured,EXCLUDE,Unclear,AP,No,Inadequate,Tibia/fibula visible but proximal segment cropped at the knee and no clearly discernible fracture line; cannot confirm shaft fracture location.,Low,done
+Fractured/IMG0002105.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002106.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002122.jpg,Fractured,EXCLUDE,Unclear,AP,No,Inadequate,"Bilateral lower legs, small/gracile bone proportions suggest pediatric patient; proximal segment cropped and no clear fracture line visible.",Low,done
+Fractured/IMG0002123.jpg,Fractured,EXCLUDE,Unclear,AP,No,Inadequate,Bilateral lower leg comparison view; no clearly discernible fracture line to confirm shaft fracture location.,Low,done
+Fractured/IMG0002126.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002127.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002148.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible (small metallic marker present), not tibia.",High,done
 Fractured/IMG0002180.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002181.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002208.jpg,Fractured,,,,,,,,pending
