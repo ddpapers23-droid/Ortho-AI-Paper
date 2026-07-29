@@ -3471,14 +3471,14 @@ Fractured/IMG0001578.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,No,Adequate,"Bilatera
 Fractured/IMG0001639.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot prominent in frame; fracture location is distal, not shaft.",Moderate,done
 Fractured/IMG0001640.jpg,Fractured,EXCLUDE,Pilon,Lateral,No,Inadequate,"Ankle/foot prominent in frame; fracture location is distal, not shaft.",Moderate,done
 Fractured/IMG0001710.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
-Fractured/IMG0001730.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001731.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001738.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001739.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001760.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001762.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001763.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001774.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0001730.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Pediatric (infant) forearm fracture, not tibia.",High,done
+Fractured/IMG0001731.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Pediatric (infant) forearm fracture, not tibia.",High,done
+Fractured/IMG0001738.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001739.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001760.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
+Fractured/IMG0001762.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001763.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0001774.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,No,Adequate,"Bilateral lower legs in a clearly pediatric/toddler-aged patient, skeletally immature.",High,done
 Fractured/IMG0001780.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001781.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001805.jpg,Fractured,,,,,,,,pending
