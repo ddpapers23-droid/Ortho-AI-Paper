@@ -3479,14 +3479,14 @@ Fractured/IMG0001760.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is
 Fractured/IMG0001762.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0001763.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
 Fractured/IMG0001774.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,No,Adequate,"Bilateral lower legs in a clearly pediatric/toddler-aged patient, skeletally immature.",High,done
-Fractured/IMG0001780.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001781.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001805.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001867.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001868.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001869.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001870.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001916.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0001780.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001781.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001805.jpg,Fractured,EXCLUDE,Other,Lateral,Yes,Adequate,"Post-operative forearm plate fixation, not tibia.",High,done
+Fractured/IMG0001867.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative tibia with intramedullary nail and locking screws visible.,High,done
+Fractured/IMG0001868.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative tibia with intramedullary nail visible.,High,done
+Fractured/IMG0001869.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative distal tibia with plate and nail visible.,High,done
+Fractured/IMG0001870.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Distal tibia/ankle with foot prominent; lucent lesion obscures cortex, location is distal not shaft.",Moderate,done
+Fractured/IMG0001916.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,No,Adequate,"Bilateral lower legs in a clearly pediatric patient, skeletally immature.",High,done
 Fractured/IMG0001933.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001934.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001938.jpg,Fractured,,,,,,,,pending
