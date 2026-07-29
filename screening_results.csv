@@ -3455,14 +3455,14 @@ Fractured/IMG0001381.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with ha
 Fractured/IMG0001382.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0001391.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
 Fractured/IMG0001392.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
-Fractured/IMG0001410.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001411.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001428.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001440.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001441.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001494.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001495.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001546.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0001410.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001411.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001428.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/hand, not tibia.",High,done
+Fractured/IMG0001440.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001441.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001494.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001495.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001546.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible (wristwatch present), not tibia.",High,done
 Fractured/IMG0001570.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001571.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001572.jpg,Fractured,,,,,,,,pending
