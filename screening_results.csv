@@ -3495,14 +3495,14 @@ Fractured/IMG0001948.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Elbow/forearm, 
 Fractured/IMG0001964.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/humerus fracture, not tibia.",High,done
 Fractured/IMG0001965.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/humerus fracture, not tibia.",High,done
 Fractured/IMG0001970.jpg,Fractured,EXCLUDE,Other,Lateral,Yes,Adequate,"Post-operative forearm plate fixation, not tibia.",High,done
-Fractured/IMG0001971.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001980.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001981.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002020.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002021.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002036.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002037.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002085.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0001971.jpg,Fractured,EXCLUDE,Other,Lateral,Yes,Adequate,"Post-operative forearm plate fixation, not tibia.",High,done
+Fractured/IMG0001980.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
+Fractured/IMG0001981.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
+Fractured/IMG0002020.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002021.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
+Fractured/IMG0002036.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative tibia with intramedullary nail and screws visible.,High,done
+Fractured/IMG0002037.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative distal tibia with plate and nail visible.,High,done
+Fractured/IMG0002085.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0002086.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002105.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002106.jpg,Fractured,,,,,,,,pending
