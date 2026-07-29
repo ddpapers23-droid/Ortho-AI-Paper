@@ -3487,14 +3487,14 @@ Fractured/IMG0001868.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Pos
 Fractured/IMG0001869.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative distal tibia with plate and nail visible.,High,done
 Fractured/IMG0001870.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Distal tibia/ankle with foot prominent; lucent lesion obscures cortex, location is distal not shaft.",Moderate,done
 Fractured/IMG0001916.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,No,Adequate,"Bilateral lower legs in a clearly pediatric patient, skeletally immature.",High,done
-Fractured/IMG0001933.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001934.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001938.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001939.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001948.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001964.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001965.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0001970.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0001933.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001934.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001938.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001939.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0001948.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0001964.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/humerus fracture, not tibia.",High,done
+Fractured/IMG0001965.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/humerus fracture, not tibia.",High,done
+Fractured/IMG0001970.jpg,Fractured,EXCLUDE,Other,Lateral,Yes,Adequate,"Post-operative forearm plate fixation, not tibia.",High,done
 Fractured/IMG0001971.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001980.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0001981.jpg,Fractured,,,,,,,,pending
