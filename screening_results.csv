@@ -3529,14 +3529,14 @@ Fractured/IMG0002304.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proxim
 Fractured/IMG0002305.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
 Fractured/IMG0002306.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
 Fractured/IMG0002307.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
-Fractured/IMG0002308.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002309.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002310.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002311.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002312.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002313.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002314.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002315.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002308.jpg,Fractured,EXCLUDE,Plateau,AP,No,Adequate,"Visible fracture line in proximal tibia metaphysis just below the joint line; location is tibial plateau/proximal, not diaphyseal shaft.",High,done
+Fractured/IMG0002309.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002310.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Proximal tibia/fibula near knee, cropped, no clearly discernible fracture line and distal shaft not shown.",Low,done
+Fractured/IMG0002311.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Wrist/hand, not tibia.",High,done
+Fractured/IMG0002312.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Distal tibia/ankle view, proximal shaft/knee not shown, no clearly discernible fracture line.",Low,done
+Fractured/IMG0002313.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Wrist/hand with double-exposure artifact, not tibia.",High,done
+Fractured/IMG0002314.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Distal tibia/ankle/foot view, proximal shaft/knee not shown, no clearly discernible fracture line.",Low,done
+Fractured/IMG0002315.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Hand/wrist, not tibia.",High,done
 Fractured/IMG0002316.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002317.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002318.jpg,Fractured,,,,,,,,pending
