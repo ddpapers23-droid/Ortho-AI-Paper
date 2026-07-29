@@ -3520,15 +3520,15 @@ Fractured/IMG0002272.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hand/
 Fractured/IMG0002274.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
 Fractured/IMG0002287.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
 Fractured/IMG0002298.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,No,Inadequate,"Right tibia/fibula with knee and ankle in frame, but double-exposure artifact overlapping with an elbow image significantly compromises cortical assessment.",Moderate,done
-Fractured/IMG0002299.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002300.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002301.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002302.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002303.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002304.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002305.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002306.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002307.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002299.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002300.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002301.jpg,Fractured,EXCLUDE,Unclear,AP,No,Adequate,"Excellent quality bilateral tibia/fibula AP view (knee to ankle, adult, no hardware) but no fracture line clearly visible in either leg; cannot confirm fracture presence.",Moderate,done
+Fractured/IMG0002302.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
+Fractured/IMG0002303.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
+Fractured/IMG0002304.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
+Fractured/IMG0002305.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Shoulder/proximal humerus fracture, not tibia.",High,done
+Fractured/IMG0002306.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
+Fractured/IMG0002307.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft.",Moderate,done
 Fractured/IMG0002308.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002309.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002310.jpg,Fractured,,,,,,,,pending
