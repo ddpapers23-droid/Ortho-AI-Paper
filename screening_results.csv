@@ -3511,15 +3511,15 @@ Fractured/IMG0002123.jpg,Fractured,EXCLUDE,Unclear,AP,No,Inadequate,Bilateral lo
 Fractured/IMG0002126.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0002127.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0002148.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible (small metallic marker present), not tibia.",High,done
-Fractured/IMG0002180.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002181.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002208.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002180.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hip/proximal femur comparison view, not tibia.",High,done
+Fractured/IMG0002181.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hand comparison view, not tibia.",High,done
+Fractured/IMG0002208.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
 Fractured/IMG0002225.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/wrist comparison view, not tibia.",High,done
-Fractured/IMG0002265.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002272.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002274.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002287.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002298.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002265.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hand comparison view, not tibia.",High,done
+Fractured/IMG0002272.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hand/wrist comparison view, not tibia.",High,done
+Fractured/IMG0002274.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002287.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002298.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,No,Inadequate,"Right tibia/fibula with knee and ankle in frame, but double-exposure artifact overlapping with an elbow image significantly compromises cortical assessment.",Moderate,done
 Fractured/IMG0002299.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002300.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002301.jpg,Fractured,,,,,,,,pending
