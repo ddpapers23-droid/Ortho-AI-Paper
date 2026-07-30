@@ -3537,14 +3537,14 @@ Fractured/IMG0002312.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Distal
 Fractured/IMG0002313.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Wrist/hand with double-exposure artifact, not tibia.",High,done
 Fractured/IMG0002314.jpg,Fractured,EXCLUDE,Unclear,Lateral,No,Inadequate,"Distal tibia/ankle/foot view, proximal shaft/knee not shown, no clearly discernible fracture line.",Low,done
 Fractured/IMG0002315.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Hand/wrist, not tibia.",High,done
-Fractured/IMG0002316.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002317.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002318.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002319.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002320.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002321.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002322.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002323.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002316.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002317.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002318.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002319.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002320.jpg,Fractured,INCLUDE,Tibial Shaft,AP,No,Adequate,"Adult tibial shaft fracture at junction of middle/distal thirds, full length knee-to-ankle visible, no hardware, clear cortical borders.",High,done
+Fractured/IMG0002321.jpg,Fractured,INCLUDE,Tibial Shaft,Lateral,No,Adequate,"Lateral view of same adult tibial shaft fracture, full length knee-to-ankle visible, no hardware, clear cortical borders.",High,done
+Fractured/IMG0002322.jpg,Fractured,INCLUDE,Tibial Shaft,AP,No,Adequate,"Second AP exposure of same adult tibial shaft fracture, full length knee-to-ankle visible, no hardware, clear cortical borders.",High,done
+Fractured/IMG0002323.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
 Fractured/IMG0002324.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002325.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002326.jpg,Fractured,,,,,,,,pending
