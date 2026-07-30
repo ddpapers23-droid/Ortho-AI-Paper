@@ -3545,14 +3545,14 @@ Fractured/IMG0002320.jpg,Fractured,INCLUDE,Tibial Shaft,AP,No,Adequate,"Adult ti
 Fractured/IMG0002321.jpg,Fractured,INCLUDE,Tibial Shaft,Lateral,No,Adequate,"Lateral view of same adult tibial shaft fracture, full length knee-to-ankle visible, no hardware, clear cortical borders.",High,done
 Fractured/IMG0002322.jpg,Fractured,INCLUDE,Tibial Shaft,AP,No,Adequate,"Second AP exposure of same adult tibial shaft fracture, full length knee-to-ankle visible, no hardware, clear cortical borders.",High,done
 Fractured/IMG0002323.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
-Fractured/IMG0002324.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002325.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002326.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002327.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002328.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002329.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002330.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002331.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002324.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/elbow in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002325.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002326.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/elbow in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002327.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm fracture in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002328.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/elbow in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002329.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/elbow in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002330.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Elbow/forearm in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002331.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm in a skeletally immature (pediatric) patient, not tibia.",High,done
 Fractured/IMG0002332.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002333.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002334.jpg,Fractured,,,,,,,,pending
