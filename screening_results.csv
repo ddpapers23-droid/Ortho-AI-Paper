@@ -3562,21 +3562,21 @@ Fractured/IMG0002337.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Hip/proximal fe
 Fractured/IMG0002338.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Hip/proximal femur, not tibia.",High,done
 Fractured/IMG0002339.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Hip/proximal femur fracture, not tibia.",High,done
 Fractured/IMG0002340.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hip/pelvis view, not tibia.",High,done
-Fractured/IMG0002341.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002341.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hip/pelvis view, not tibia.",High,done
 Fractured/IMG0002342.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative proximal tibia/fibula with plate and screw visible near knee.,High,done
 Fractured/IMG0002343.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative tibia with intramedullary nail and screw visible.,High,done
-Fractured/IMG0002344.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002345.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002344.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative distal tibia with intramedullary nail and plate/screws visible.,High,done
+Fractured/IMG0002345.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative proximal tibia with intramedullary nail and screw visible.,High,done
 Fractured/IMG0002346.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative tibia with plate fixation visible near knee.,High,done
 Fractured/IMG0002347.jpg,Fractured,EXCLUDE,Pilon,AP,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft; numerous external radiopaque artifacts also present.",Moderate,done
 Fractured/IMG0002348.jpg,Fractured,EXCLUDE,Pilon,Lateral,No,Inadequate,"Ankle/foot is the main structure visible, not tibial shaft; numerous external radiopaque artifacts also present.",Moderate,done
 Fractured/IMG0002349.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Wrist/hand, not tibia.",High,done
 Fractured/IMG0002350.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm/hand, not tibia.",High,done
-Fractured/IMG0002351.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002352.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002353.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002354.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002355.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002351.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002352.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002353.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Wrist/hand, not tibia.",High,done
+Fractured/IMG0002354.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Forearm/hand, not tibia.",High,done
+Fractured/IMG0002355.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Wrist/hand, not tibia.",High,done
 Fractured/IMG0002356.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002357.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002358.jpg,Fractured,,,,,,,,pending
