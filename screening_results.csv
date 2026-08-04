@@ -3592,21 +3592,21 @@ Fractured/IMG0002367.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Hip/proximal f
 Fractured/IMG0002368.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Distal femur with intramedullary rod fixation extending to knee, not tibia.",High,done
 Fractured/IMG0002369.jpg,Fractured,EXCLUDE,Other,Lateral,Yes,Adequate,"Humerus with intramedullary rod fixation, not tibia.",High,done
 Fractured/IMG0002370.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Hip/proximal femur with intramedullary rod fixation, not tibia.",High,done
-Fractured/IMG0002371.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002372.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002373.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002374.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002375.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002376.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002377.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002378.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002379.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002380.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002381.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002382.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002383.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002384.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002385.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002371.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Tibia with external fixator frame visible.,High,done
+Fractured/IMG0002372.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Tibia with external fixator frame visible.,High,done
+Fractured/IMG0002373.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Tibia with external fixator frame visible.,High,done
+Fractured/IMG0002374.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Tibia with external fixator frame visible.,High,done
+Fractured/IMG0002375.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/elbow in a skeletally immature (pediatric) patient, not tibia.",High,done
+Fractured/IMG0002376.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/elbow fracture in a pediatric patient, not tibia.",High,done
+Fractured/IMG0002377.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm/elbow fracture in a pediatric patient, not tibia.",High,done
+Fractured/IMG0002378.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Bilateral post-operative tibial plate/screw fixation visible.,High,done
+Fractured/IMG0002379.jpg,Fractured,EXCLUDE,Unclear,AP,No,Inadequate,Right tibia/fibula visible but double-exposure artifact with a forearm image compromises cortical assessment; no clearly confirmable fracture.,Low,done
+Fractured/IMG0002380.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002381.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002382.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002383.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Femur with distal interlocking screw fixation, not tibia.",High,done
+Fractured/IMG0002384.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Bilateral distal femur with intramedullary rod fixation near knee, not tibia.",High,done
+Fractured/IMG0002385.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Shoulder/humerus with post-operative plate fixation, not tibia.",High,done
 Fractured/IMG0002386.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002387.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002388.jpg,Fractured,,,,,,,,pending
