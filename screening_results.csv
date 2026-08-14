@@ -3622,21 +3622,21 @@ Fractured/IMG0002397.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Forearm/hand 
 Fractured/IMG0002398.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral hand/forearm comparison view, not tibia.",High,done
 Fractured/IMG0002399.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative distal tibia with plate and screws visible.,High,done
 Fractured/IMG0002400.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative proximal tibia with plate and screw visible near knee.,High,done
-Fractured/IMG0002401.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002402.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002403.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002404.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002405.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002406.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002407.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002408.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002409.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002410.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002411.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002412.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002413.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002414.jpg,Fractured,,,,,,,,pending
-Fractured/IMG0002415.jpg,Fractured,,,,,,,,pending
+Fractured/IMG0002401.jpg,Fractured,EXCLUDE,Other,AP,Yes,Adequate,"Distal femur with plate/screw fixation near knee, not tibia.",High,done
+Fractured/IMG0002402.jpg,Fractured,EXCLUDE,Unclear,AP,No,Inadequate,Left tibia/fibula visible but no clearly discernible fracture line; unusual mixed-region comparison framing.,Low,done
+Fractured/IMG0002403.jpg,Fractured,EXCLUDE,Tibial Shaft,AP,Yes,Adequate,Post-operative distal tibia with plate and screws visible.,High,done
+Fractured/IMG0002404.jpg,Fractured,EXCLUDE,Tibial Shaft,Lateral,Yes,Adequate,Post-operative distal tibia with dual plate fixation visible.,High,done
+Fractured/IMG0002405.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002406.jpg,Fractured,EXCLUDE,Other,AP,No,Inadequate,"Forearm/hand with motion/double-exposure artifact, not tibia.",High,done
+Fractured/IMG0002407.jpg,Fractured,EXCLUDE,Other,Lateral,No,Adequate,"Elbow/forearm, not tibia.",High,done
+Fractured/IMG0002408.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Elbow/forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002409.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002410.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002411.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002412.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Bilateral forearm/hand comparison view, not tibia.",High,done
+Fractured/IMG0002413.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002414.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
+Fractured/IMG0002415.jpg,Fractured,EXCLUDE,Other,AP,No,Adequate,"Forearm with hand visible, not tibia.",High,done
 Fractured/IMG0002416.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002417.jpg,Fractured,,,,,,,,pending
 Fractured/IMG0002418.jpg,Fractured,,,,,,,,pending
